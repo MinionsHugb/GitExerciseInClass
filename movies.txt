@@ -9,16 +9,7 @@ The Matrix 2
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -68,3 +59,17 @@ The Matrix 2
 
 The Terminator
 
+
+
+
+
+
+
+
+
+
+
+=======
+Frozen
+Stella í orlofi
+>>>>>>> fe2c5bb0664e3d91aefdbd9e0b5e76134b83bf5d
